@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'robo-reg';
+    src: url('../fonts/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'int-reg';
+    src: url('../fonts/Inter-VariableFont_slnt,wght.ttf');
+}
